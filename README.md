@@ -48,8 +48,11 @@ An addition to this rule is that the minus sign (-) used for negating numbers an
 And the following are invalid expressions
 
 1 - - 1    // Invalid
+
 1- - 1     // Invalid
+
 6 + - (4)  // Invalid
+
 6 + -(- 4) // Invalid
 
 Validation
