@@ -26,7 +26,7 @@ There may or may not be whitespace between numbers and operators.
 
 An addition to this rule is that the minus sign (-) used for negating numbers and parentheses will never be separated by whitespace. I.e all of the following are valid expressions.
 
-1-1    // 0
+1-1    // 0\n
 1 -1   // 0
 1- 1   // 0
 1 - 1  // 0
